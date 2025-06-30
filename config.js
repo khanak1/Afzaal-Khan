@@ -30,7 +30,7 @@ module.exports = {
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'same' if you want to resend deleted message in same chat
     OWNER_REACT: process.env.OWNER_REACT || "true",
     READ_CMD: process.env.READ_CMD || "false",
-    BOT_NAME: process.env.BOT_NAME || "➺AFZAALɳƭKHAN_࿐",
+    BOT_NAME: process.env.BOT_NAME || "➺AFZAAL KHAN_࿐",
     STATUS_REPLY: process.env.STATUS_REPLY || "",
     STATUS_REACT: process.env.STATUS_REACT || "false",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
